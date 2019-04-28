@@ -1,0 +1,12 @@
+TestStrategy/YenSquared.cs
+QuantBlackTrading/TODO.txt
+.vs
+XUnitTests/Tester.cs
+XUnitTests/bin
+XUnitTests/obj
+TestStrategy/bin
+TestStrategy/obj
+QuantBlackTrading/bin
+QuantBlackTrading/obj
+QuantBlackTrading/CommandLineDotNetCoreBuild.cs
+
